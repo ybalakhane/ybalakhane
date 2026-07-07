@@ -6,7 +6,7 @@
 
 <p align="center">
   I design, build, and ship production software end to end — backend, telephony, and cloud infrastructure.<br>
-  Self-taught since 13. Heading toward an M.S. in Computer Science at Johns Hopkins.
+  Self-taught since 13.
 </p>
 
 ---
