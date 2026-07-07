@@ -16,7 +16,7 @@
 - 🩺 **AI Voice Agent for Healthcare** — a 24/7 AI front-desk agent that handles patient calls and recall outreach for dental practices. Built the full stack solo: Node.js backend, voice + telephony, patient memory, a live dashboard, and the cloud infrastructure it runs on.
 - 🛠️ **YB Forge** — my AI automation & web studio. Built the brand, product, site, and an automated lead-generation pipeline. → [ybforge.co](https://ybforge.co)
 - 🤖 **Autonomous Ops Infrastructure** — a 24/7 Linux server running scheduled AI agents, with six Google Workspace accounts, WhatsApp, and messaging unified into one custom agent tooling layer.
-- 📅 **DayBlock** — a mobile-first web app that turns a brain-dump of tasks into a time-boxed day. Built it for my own ADHD.
+- 📅 **DayBlock** — a mobile-first web app that turns a brain-dump of tasks into a clean, time-boxed day.
 
 ### 🧠 What I care about
 Building things, solving hard problems, and shipping. I grew up in a medical family and chose engineering out of a love of building. Most of what I make now lives where **AI meets healthcare**.
