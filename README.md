@@ -1,25 +1,25 @@
 <h1 align="center">Hi, I'm Isaac Balakhani 👋</h1>
 
 <p align="center">
-  <b>Software &amp; AI Engineer · Founder of YB Forge · Building AI for Healthcare</b>
+  <b>Software Engineer · Founder of YB Forge · Building for Healthcare</b>
 </p>
 
 <p align="center">
-  I design, build, and ship production AI systems end to end.<br>
-  Self-taught since 13. Currently pursuing my M.S. in Computer Science at Johns Hopkins.
+  I design, build, and ship production software end to end — backend, telephony, and cloud infrastructure.<br>
+  Self-taught since 13. Heading toward an M.S. in Computer Science at Johns Hopkins.
 </p>
 
 ---
 
 ### 🚀 What I'm building
 
-- 🩺 **AI Voice Agent for Healthcare** — a 24/7 AI front-desk agent that handles patient calls and recall outreach for dental practices. Built the full stack solo: Node.js backend, voice + telephony, patient memory, a live dashboard, and the cloud infrastructure it runs on.
-- 🛠️ **YB Forge** — my AI automation & web studio. Built the brand, product, site, and an automated lead-generation pipeline. → [ybforge.co](https://ybforge.co)
-- 🤖 **Autonomous Ops Infrastructure** — a 24/7 Linux server running scheduled AI agents, with six Google Workspace accounts, WhatsApp, and messaging unified into one custom agent tooling layer.
+- 🩺 **Healthcare Voice Agent** — a 24/7 production voice agent that handles patient calls and recall outreach for dental practices. **Live now — call it at (516) 970-5558.** Built the full stack solo: Node.js backend, voice + telephony integration, patient memory, a live operations dashboard, and the cloud infrastructure it runs on.
+- 🛠️ **YB Forge** — my software & automation studio. Built the brand, product, site, and an automated lead-generation pipeline. → [ybforge.co](https://ybforge.co)
+- 🤖 **Autonomous Ops Infrastructure** — a 24/7 Linux server running scheduled autonomous jobs, with six Google Workspace accounts, WhatsApp, and messaging unified into one custom tooling layer.
 - 📅 **DayBlock** — a mobile-first web app that turns a brain-dump of tasks into a clean, time-boxed day.
 
 ### 🧠 What I care about
-Building things, solving hard problems, and shipping. I grew up in a medical family and chose engineering out of a love of building. Most of what I make now lives where **AI meets healthcare**.
+Building things, solving hard problems, and shipping software that runs in production. I grew up in a medical family and chose engineering out of a love of building. Most of what I make now lives where **software meets healthcare**.
 
 ---
 
@@ -35,9 +35,9 @@ Building things, solving hard problems, and shipping. I grew up in a medical fam
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080ff?style=flat&logo=digitalocean&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM%20Apps-412991?style=flat&logo=openai&logoColor=white)
+![Node](https://img.shields.io/badge/REST%20APIs-000000?style=flat&logo=node.js&logoColor=white)
 
-**Focus areas:** LLM application development · AI voice agents · agent & tooling design · workflow automation · full-stack web · cloud infrastructure
+**Focus areas:** full-stack web · backend & APIs · voice & telephony · cloud infrastructure · workflow automation · LLM application development
 
 ---
 
