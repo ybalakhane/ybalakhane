@@ -14,6 +14,8 @@
 ### 🚀 What I'm building
 
 - 🎙️ **[turnlag](https://github.com/ybalakhane/turnlag)** — measures perceived turn latency on a voice-agent call (the silence after the caller stops talking). App logs said my agent was fast. Pointed at a real recording, p50 was 3.35s. 26 tests, no dependencies.
+- 🪪 **[namelock](https://github.com/ybalakhane/namelock)** — fail a call if the agent addresses the wrong person. Demo knew the caller. Live said the wrong name.
+- 🧰 **[toolpick](https://github.com/ybalakhane/toolpick)** — after a prompt change, dump tool calls and fail CI if `send_sms` fired instead of `draft_sms`.
 - 🩺 **Voice agent** — Deepgram Flux STT + ElevenLabs TTS for dental practices. Browser demo: [talk.ybforge.co](https://talk.ybforge.co)
 - 🛠️ **[YB Forge](https://ybforge.co)** — websites, voice, and automation for real businesses.
 
