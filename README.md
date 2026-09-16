@@ -13,10 +13,9 @@
 
 ### 🚀 What I'm building
 
-- 🩺 **Healthcare Voice Agent** — a 24/7 production voice agent that handles patient calls and recall outreach for dental practices. **Live now — call it at (516) 970-5558.** Built the full stack solo: Node.js backend, voice + telephony integration, patient memory, a live operations dashboard, and the cloud infrastructure it runs on.
-- 🛠️ **YB Forge** — my software & automation studio. Built the brand, product, site, and an automated lead-generation pipeline. → [ybforge.co](https://ybforge.co)
-- 🤖 **Autonomous Ops Infrastructure** — a 24/7 Linux server running scheduled autonomous jobs, with six Google Workspace accounts, WhatsApp, and messaging unified into one custom tooling layer.
-- 📅 **DayBlock** — a mobile-first web app that turns a brain-dump of tasks into a clean, time-boxed day.
+- 🎙️ **[turnlag](https://github.com/ybalakhane/turnlag)** — measures perceived turn latency on a voice-agent call (the silence after the caller stops talking). App logs said my agent was fast. Pointed at a real recording, p50 was 3.35s. 26 tests, no dependencies.
+- 🩺 **Voice agent** — Deepgram Flux STT + ElevenLabs TTS for dental practices. Browser demo: [talk.ybforge.co](https://talk.ybforge.co)
+- 🛠️ **[YB Forge](https://ybforge.co)** — websites, voice, and automation for real businesses.
 
 ### 🧠 What I care about
 Building things, solving hard problems, and shipping software that runs in production. I grew up in a medical family and chose engineering out of a love of building. Most of what I make now lives where **software meets healthcare**.
